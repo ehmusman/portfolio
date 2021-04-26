@@ -1,6 +1,4 @@
 import React from 'react'
-import Fade from 'react-reveal/Fade';
-import Reveal from 'react-reveal/Reveal';
 import Zoom from 'react-reveal/Zoom';
 
 const Project = ({ name, description, image, github, app }) => {
