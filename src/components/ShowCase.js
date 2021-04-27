@@ -27,10 +27,6 @@ const ShowCase = () => {
                                             loop={Infinity}
                                             wrapper="b"
                                             steps={[
-                                                "a React Js Developer",
-                                                2000,
-                                                "Node Js Developer",
-                                                2000,
                                                 "MERN Stack Developer",
                                                 2000,
                                                 "a Web Developer",
