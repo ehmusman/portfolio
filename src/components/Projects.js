@@ -3,6 +3,7 @@ import Project from './Project'
 
 const Projects = () => {
     const data = [
+        { id: 0.99, name: "Gatsby Blog", description: "This is a Gatsby Blog Created by using Gatsby with headless CMS and deployed on netlify", img: "https://res.cloudinary.com/ehmusman/image/upload/v1619975142/portfolio/gatsby_blog_ybdpnm.png", appLink: "https://blissful-bose-4a5ebe.netlify.app/", github: "https://github.com/ehmusman/gatsby" },
         { id: 1, name: "Shop IT Ecomerace", description: "This is an Ecomerace Application created by using Reactjs, Mongodb, Nodejs and Expressjs", img: "https://res.cloudinary.com/ehmusman/image/upload/v1619435050/portfolio/shopit_tdztnm.png", appLink: "https://shopit-v1.herokuapp.com/", github: "https://github.com/ehmusman/shopit" },
         { id: 2, name: "Multi Step Form", description: "This is a multistep form app created by using reactjs with formik and yup", img: "https://res.cloudinary.com/ehmusman/image/upload/v1619435188/portfolio/multistepform_cbylh1.png", appLink: "http://multistep-form-ehmusman.surge.sh/", github: "https://github.com/ehmusman/multistep-form" },
         { id: 3, name: "Diaries App", description: "This is diaries app created by using react js with Miragejs for mocking server ", img: "https://res.cloudinary.com/ehmusman/image/upload/v1619435388/portfolio/diaries_app_ver8c5.png", appLink: "http://diaries-app-ehmusman.surge.sh/", github: "https://github.com/ehmusman/diaries-app" },
